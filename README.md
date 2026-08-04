@@ -47,8 +47,9 @@ HawkLink is an AI-based cybersecurity framework developed as a graduation projec
 
 ## 🎥 Project Demonstration
 
-A demonstration video is included in this repository (**Demo.mp4**).
+Click below to watch the project demonstration:
 
+[▶️ Watch Demo Video](Demo.MP4)
 ---
 
 ## 📌 Source Code
