@@ -1,10 +1,11 @@
 # HawkLink – AI-Based UAV Cybersecurity Framework
-<p align="center">
-  <img src="hawklink-cover.png" alt="HawkLink Cover" width="100%">
-</p>
 🏆 **1st Place Winner – Health & Security in Hajj Hackathon 2026**
 
 AI-based cybersecurity framework for detecting GPS spoofing and command hijacking attacks targeting UAV communications during Hajj through real-time monitoring and machine learning.
+
+<p align="center">
+  <img src="hawklink-cover.png" alt="HawkLink Cover" width="80%">
+</p>
 
 ---
 
